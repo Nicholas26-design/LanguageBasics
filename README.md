@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nicholas26-design
-- 👀 I’m interested in ... learning Python
-- 🌱 I’m currently learning ... R
+- 👀 I’m interested in ... learning Machine Learning
+- 🌱 I’m currently learning ... Python
 - 💞️ I’m looking to collaborate on ...not yet
 - 📫 How to reach me ...here
 
